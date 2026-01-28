@@ -1,0 +1,11 @@
+{
+  "name": "my-nextjs-app-test-1",
+  "version": "1.0.0",
+  "description": "Next.js fullstack application with API routes",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "dev": "nodemon index.ts"
+  },
+  "dependencies": {}
+}
